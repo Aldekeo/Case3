@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Calc.resources
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\bin\Release\Calc.exe.config
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\bin\Release\Calc.exe
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\bin\Release\Calc.pdb
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\Calc.Properties.Resources.resources
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\Calc.exe
+C:\Users\Admin\source\repos\Case3(Calc)\WindowsFormsApp1\obj\Release\Calc.pdb
